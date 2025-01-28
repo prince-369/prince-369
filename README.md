@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prince-369
-- 👀 I’m interested in Html,Css,JavaScript,React Js And Python Developing
+- 👀 I’m interested in MERN STACK 
 - 🌱 I’m currently learning Web Developing
 - 💞️ I’m looking to collaborate on PrinceHub
 - 📫 Visit My Website to Touch Me 👉 https://princehub9.free.nf/
