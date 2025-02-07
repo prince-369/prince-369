@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN STACK 
 - 🌱 I’m currently learning Web Developing
 - 💞️ I’m looking to collaborate on PrinceHub
-- 📫 Visit My Website to Touch Me 👉 https://princehub9.free.nf/
+- 📫 Visit My Website to Touch Me 👉 https://prince-9.netlify.app/
 
 
 <!---
