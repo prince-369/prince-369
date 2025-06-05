@@ -1,8 +1,10 @@
+import SignupPage from "./components/Signup"
+
 const App = () => {
   return (
     <div>
-      <h1>Market Mafia</h1>
-    </div>
+      <SignupPage/>    
+      </div>
   )
 }
 
